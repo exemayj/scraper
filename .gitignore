@@ -1,0 +1,16 @@
+# бинарники
+/scraper
+/scraper.exe
+
+# результаты работы
+articles.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Go
+*.test
+*.out
